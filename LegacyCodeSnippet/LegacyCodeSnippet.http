@@ -1,0 +1,6 @@
+@LegacyCodeSnippet_HostAddress = http://localhost:5153
+
+GET {{LegacyCodeSnippet_HostAddress}}/user/
+Accept: application/json
+
+###
